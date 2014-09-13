@@ -7,7 +7,7 @@
     <Button Text="Lets count!" Clicked="OnCountButtonClicked" />
     <Entry x:Name="NameEntry" Text="What is your name?" />
     <Label x:Name="NameLabel" />
-    <Button Clicked="OnNameButtonClicked" />
+    <Button Text="Say Hello!!" Clicked="OnNameButtonClicked" />
     <Label x:Name="NameLabel2" />
   </StackLayout>
 </ContentPage>

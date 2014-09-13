@@ -1,5 +1,5 @@
-﻿<xapCache source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="13/09/2014 1:28:34 PM">
-  <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\obj\x86\Debug\XamarinBeijingApp.WinPhone.dll" archivePath="XamarinBeijingApp.WinPhone.dll" lastWriteTime="13/09/2014 1:28:31 PM" />
+﻿<xapCache source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Bin\x86\Debug\PhoneApp1_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="13/09/2014 2:27:45 PM">
+  <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\obj\x86\Debug\XamarinBeijingApp.WinPhone.dll" archivePath="XamarinBeijingApp.WinPhone.dll" lastWriteTime="13/09/2014 2:27:43 PM" />
   <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="13/09/2014 10:58:00 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="13/09/2014 10:58:00 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="13/09/2014 10:58:00 AM" />
@@ -13,7 +13,7 @@
   <file source="c:\source\Demos\XamarinBeijingApp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Core.dll" archivePath="Xamarin.Forms.Core.dll" lastWriteTime="13/09/2014 10:56:37 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Platform.WP8.dll" archivePath="Xamarin.Forms.Platform.WP8.dll" lastWriteTime="13/09/2014 10:56:37 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Xaml.dll" archivePath="Xamarin.Forms.Xaml.dll" lastWriteTime="13/09/2014 10:56:37 AM" />
-  <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\XamarinBeijingApp.dll" archivePath="XamarinBeijingApp.dll" lastWriteTime="13/09/2014 1:28:29 PM" />
+  <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\XamarinBeijingApp.dll" archivePath="XamarinBeijingApp.dll" lastWriteTime="13/09/2014 2:27:42 PM" />
   <file source="c:\source\Demos\XamarinBeijingApp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Core.xml" archivePath="Xamarin.Forms.Core.xml" lastWriteTime="13/09/2014 10:56:37 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\packages\Xamarin.Forms.1.0.6186\lib\WP80\Xamarin.Forms.Xaml.xml" archivePath="Xamarin.Forms.Xaml.xml" lastWriteTime="13/09/2014 10:56:37 AM" />
   <file source="c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.WinPhone\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="13/09/2014 11:03:03 AM" />

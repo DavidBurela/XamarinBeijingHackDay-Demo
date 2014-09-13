@@ -10,7 +10,7 @@
     
     <Entry Text="{Binding Name}"  />
     <Label Text="{Binding Greeting}" />
-    <Button Command="{Binding SayHelloCommand}" />
+    <Button Text="Say Hello" Command="{Binding SayHelloCommand}" />
 
     <ListView ItemsSource="{Binding Animals}">
       <ListView.ItemTemplate>

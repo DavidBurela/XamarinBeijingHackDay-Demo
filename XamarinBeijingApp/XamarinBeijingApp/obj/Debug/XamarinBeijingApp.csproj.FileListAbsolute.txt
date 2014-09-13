@@ -1,0 +1,12 @@
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\XamarinBeijingApp.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\XamarinBeijingApp.pdb
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\XamarinBeijingApp.csprojResolveAssemblyReference.cache
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\XamarinBeijingApp.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\XamarinBeijingApp.pdb
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\DemoView.xaml.g.cs
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\BetterView.xaml.g.cs
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp\obj\Debug\HomeView.xaml.g.cs

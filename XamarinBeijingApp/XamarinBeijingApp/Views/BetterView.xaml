@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Better" xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="XamarinBeijingApp.Views.BetterView">
+  <StackLayout>
+    <Label Text="{Binding CountText}" />
+    <Button Text="Lets count!" IsEnabled="{Binding NotIsBusy}" Command="{Binding CountCommand}" />
+    <ActivityIndicator IsRunning="{Binding IsBusy}" />
+
+    
+    <Entry Text="{Binding Name}"  />
+    <Label Text="{Binding Greeting}" />
+    <Button Command="{Binding SayHelloCommand}" />
+
+    <ListView ItemsSource="{Binding Animals}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout>
+              <Label Text="{Binding Name}" TextColor="Blue" />
+              <Label Text="{Binding Color}" />
+              <Label Text="{Binding Age}" />
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    
+  </StackLayout>
+</ContentPage>

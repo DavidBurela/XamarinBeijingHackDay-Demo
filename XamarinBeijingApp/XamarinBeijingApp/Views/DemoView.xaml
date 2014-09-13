@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Old" xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="XamarinBeijingApp.Views.DemoView">
+  <StackLayout>
+    <Label x:Name="HelloLabel" Text="Hello from Xamarin.Form XAML" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Button Text="Lets count!" Clicked="OnCountButtonClicked" />
+    <Entry x:Name="NameEntry" Text="What is your name?" />
+    <Label x:Name="NameLabel" />
+    <Button Clicked="OnNameButtonClicked" />
+    <Label x:Name="NameLabel2" />
+  </StackLayout>
+</ContentPage>

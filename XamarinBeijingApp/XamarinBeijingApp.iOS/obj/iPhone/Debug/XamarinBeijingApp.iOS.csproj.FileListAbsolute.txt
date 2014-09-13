@@ -1,0 +1,13 @@
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\XamarinBeijingApp.dll
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\XamarinBeijingApp.pdb
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\XamarinBeijingApp.dll.mdb
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\obj\iPhone\Debug\XamarinBeijingApp.iOS.csprojResolveAssemblyReference.cache
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+c:\source\Demos\XamarinBeijingApp\XamarinBeijingApp\XamarinBeijingApp.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb

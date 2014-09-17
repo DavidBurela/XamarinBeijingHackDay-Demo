@@ -9,16 +9,18 @@ AGENDA
 -----
 1. Presentation.
 	* WHO I AM
-		* http://www.meetup.com/Microsoft-events-in-Beijing
 		* David Burela
 		* Microsoft Azure MVP
 		* SSW.com.au
+		* General manager. We are hiring!
+		* http://www.meetup.com/Microsoft-events-in-Beijing
 	* Xamarin. What is it.
 	* Android
 		* Emulator. SLOOWWWWWWWWWWW
-		* Genymotion
-		* UI
+		* use Genymotion instead
+		* UI. (AXML files)
 	* iOS (iPhone/iPad)
+		* Requires Mac hardware to develop on.
 	* Xamarin.Form
 		* One UI - work on 3 platform (Winphone, Android, iOS)
 	* MVVM
@@ -29,6 +31,6 @@ AGENDA
 		* ObservableCollection
 	* GitHub <- Today's code demo will be uploaded
 
-* LUNCH
-2. Playing
+2. LUNCH
+3. Hacking in groups
 
